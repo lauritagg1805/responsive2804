@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #000000;
+}
+
+h1,h2{color: #ffffff;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Palette Mosaic', cursive;
+font-family: 'Source Sans Pro', sans-serif;
+font-family: 'Titillium Web', sans-serif;
+}
+.emergencia{text-align: center;color: #FFF704;background-color: #2050D6;padding: 1%;width: 98%;margin-top: 0%;
+}
+.web {width: 99%;border-style: dotted;border-color:#FFF704}
+.ipad {width: 720px;border-style: dotted;border-color:#FFF704}
+.celu {width: 375px;border-style: dotted;border-color:#FFF704}
+footer {width: 98%;background-color: #2050D6;padding: 1%}
+.name{color: #ffffff;width:50%;margin-left: 1%;font-family: 'Josefin Sans', sans-serif;
+font-family: 'Palette Mosaic', cursive;
+font-family: 'Source Sans Pro', sans-serif;
+font-family: 'Titillium Web', sans-serif;}
+.name a{font-family: 'Josefin Sans', sans-serif;
+font-family: 'Palette Mosaic', cursive;
+font-family: 'Source Sans Pro', sans-serif;
+font-family: 'Titillium Web', sans-serif; font-weight: bold;}
+.logoup{width: 1.5%;margin-left: 40%;}
+section {text-align: center;}
